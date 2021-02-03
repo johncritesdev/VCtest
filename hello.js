@@ -1,2 +1,2 @@
-console.log('Hello Micheal');
+console.log('Hello version control');
 
