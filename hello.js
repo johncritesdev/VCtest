@@ -1,2 +1,2 @@
-console.log('Hello version control');
+console.log('Hello gitflow');
 
