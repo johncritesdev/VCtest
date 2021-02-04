@@ -11,11 +11,12 @@ console.log('this is a test');
 //this is test #10;
 //this is test #11;
 //this is test #12;
-//thsi is test #13;
+//this is test #13;
+//this is test #14;
 
 /*
 
-git branch -d (name) deletes
+git checkout to switch
 
 */
 
