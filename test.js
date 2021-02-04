@@ -10,10 +10,12 @@ console.log('this is a test');
 //this is test #9;
 //this is test #10;
 //this is test #11;
+//this is test #12;
+//thsi is test #13;
 
 /*
 
-I am happy to annouce that it is thursday and am on the 4th day of figuring this gitflow stuff out.
+git branch -d (name) deletes
 
 */
 
