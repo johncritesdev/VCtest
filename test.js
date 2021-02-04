@@ -9,15 +9,11 @@ console.log('this is a test');
 //this is test #8;
 //this is test #9;
 //this is test #10;
+//this is test #11;
 
 /*
 
-git checkout -b development
-
-git branch
-
-git push origin development
+I am happy to annouce that it is thursday and am on the 4th day of figuring this gitflow stuff out.
 
 */
 
-//this is production ready
