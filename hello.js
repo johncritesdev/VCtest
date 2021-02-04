@@ -1,2 +1,2 @@
-console.log('Hello to all');
+console.log('Hello world');
 
