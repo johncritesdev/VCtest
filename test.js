@@ -15,10 +15,11 @@ console.log('this is a test');
 //this is test #14;
 //this is test #15;
 //this is test #16;
+//this is test #17;
 
 /*
 
-git branch -d delete and git checkout -b creates a new branch
+This is the final test for the day.
 
 */
 
