@@ -17,9 +17,10 @@ console.log('this is a test');
 //this is test #16;
 //this is test #17;
 //this is test #18;
+//this is test #19;
 /*
 
-This is the fist test of the day.
+getting better at gitflow
 
 */
 
