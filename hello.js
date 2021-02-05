@@ -1,2 +1,2 @@
-console.log('Hello again');
+console.log('TGIF');
 
